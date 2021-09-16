@@ -7,3 +7,9 @@ New command-line parameters:
 and
  /VC_redistX86="Full Path (with spaces) to the VC_redist.x86.exe"
 You need to use both parameters above to change both locations of the installers to use, if they are different than installer location.
+
+---
+
+Link to the support page: https://www.patreon.com/posts/50542367
+
+or please supprt me with this same amount on Ko-Fi.
