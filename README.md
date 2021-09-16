@@ -1,1 +1,1 @@
-# Demos-of-VC-redist-installers
+# Demos of VC++ redist installers
