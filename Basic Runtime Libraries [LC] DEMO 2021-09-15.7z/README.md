@@ -4,6 +4,6 @@ In the EXTERNAL version of this installer you can use any of VC++ 2015/2017/2019
 
 ---
 
-Link to the product page: https://www.patreon.com/posts/visual-c-basic-33944090
+Link to the support page: https://www.patreon.com/posts/33944090
 
-or please supprt me with this same amount on Ko-Fi
+or please supprt me with this same amount on Ko-Fi.
