@@ -1,6 +1,10 @@
-# Demos of VC++ redistributable runtimes installers
+# VC++ redistributable runtimes installers - Demos
 
 Changes in the program:
+
+	v21.09.25 (2021-09-25):
+
+Updated VC++ 2022 to the latest version.
 
 	v21.09.15 (2021-09-15):
 
