@@ -2,6 +2,10 @@
 
 Changes in the program:
 
+    v21.10.21 (2021-10-21):
+
+Added the "PreveiewOnTaskBarAW.isi" to show you that my solution works without any problems, so, now you can see preview of the Installer window/messages on the Task-Bar.
+
 	v21.09.25 (2021-09-25):
 
 Updated VC++ 2022 to the latest version.
