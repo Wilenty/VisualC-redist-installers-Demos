@@ -1,4 +1,4 @@
-# VC++ redistributable runtimes installers - Demos
+# VC++ redistributable runtimes installers
 
 Changes in the program:
 
