@@ -1,4 +1,4 @@
-# VC++ redistributable runtimes installers Demos
+# VC++ redistributable runtimes installers - Demos
 
 If this  program is to advanced/complicated for you, look at the "Simple Install" button on the information-page (where the information about the changes). After using it (in the full version), it will remove all installed VC++ runtimes and install included in the program.
 
