@@ -11,8 +11,6 @@ But, please take in mind the auto-update option will not remove all doubled entr
 
 ## Changes to the program (in reverse order):
 
----
-
 **v22.03.29 (2022-03-29):**
 
 Added support for ARM64 architecture. From now it includes VC++ 2017, 2019 and 2022 for ARM64 (and supports 2017/2019/2022 in the external version, parameter: /VC_redistARM64="X:\Full\Path (with spaces)\to\the\VC_redist.arm64.exe")
