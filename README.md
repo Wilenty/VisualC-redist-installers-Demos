@@ -1,6 +1,6 @@
 # VC++ redistributable runtimes installers - Demos
 
-If this  program is to advanced/complicated for you, look at the "Simple Install" button on the information-page (where the information about the changes). After using it (in the full version), it will remove all installed VC++ runtimes and install included in the program.
+If this  program is to advanced/complicated for you, look at the "Simple Install" button on the information-page (where the information about the changes). After using it (in the full version), it will uninstall all installed VC++ runtimes and install included in the program.
 
 It's so hard to create simple as possible program and advanced as possible at the same time, where you can change all options available, even from command-line! So, I created a batch file to show you how the command-line is parsed by the program. And, I described all of available parameters in the text files.
 I added the "Simple Install" button that you don't need to have go through all the possible options.
@@ -8,6 +8,9 @@ I added the "Simple Install" button that you don't need to have go through all t
 But, please take in mind the auto-update option will not remove all doubled entries (in the uninstall section) - normal installation is designed for that. The "Simple install" button will clean all doubled entries as well. Or, you can remove manually the doubled-entries visible in the uninstall-section.
 
 **I will share the link to the full-version of this program with latest runtimes for you after support me. I updates the program for myself, so, it will always have the latest runtimes.**
+
+It's hard to compete with the programs available "for free", but usually they have less options, they does not supports most used OS'es. The only one good thing is that they "are available for free" - that's all.
+Compare my program (repack) to any other repacks of VC++, and try to find similar options available in other VC++ repacks.
 
 ## Changes to the program (in reverse order):
 
