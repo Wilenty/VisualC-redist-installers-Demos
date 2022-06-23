@@ -29,4 +29,4 @@ You need to use both parameters above to change both locations of the installers
 
 Link to the support page: https://www.patreon.com/posts/50542367
 
-or please supprt me with this same amount on Ko-Fi.
+or please support me with this same amount on Ko-Fi.
