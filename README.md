@@ -14,7 +14,15 @@ Compare my program (repack) to any other repacks of VC++, and try to find simila
 
 ## Changes to the program (in reverse order):
 
-**v22.03.29 (2022-03-29):**
+**v22.05.10 (2022-05-10):**
+
+Added the "InnoSetup [Types], [Components], [Tasks], [Run] Directly In the [code]" from there: https://github.com/Wilenty/InnoSetup-Types-Components-Tasks-Run-Directly-In-the-code-
+
+And changed the "VC++ choose window" to the "VC++ choose page" after information text.
+
+---
+
+<details><summary>v22.03.29 (2022-03-29):</summary>
 
 Added support for ARM64 architecture. From now it includes VC++ 2017, 2019 and 2022 for ARM64 (and supports 2017/2019/2022 in the external version, parameter: /VC_redistARM64="X:\Full\Path (with spaces)\to\the\VC_redist.arm64.exe")
 
@@ -34,6 +42,8 @@ But, with using the "/COMPONENTS=", it will adds found components by the "/NeedD
 Added the "dark theme" - it depends of the theme used by you (W10/W11), if enabled - it inverts the colors, other way it uses colors of your windows.
 
 Removed creating uninstall section in the OS registry, and removed /Portable command-line switch.
+
+</details>
 
 ---
 
