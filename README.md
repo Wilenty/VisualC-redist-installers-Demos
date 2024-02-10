@@ -1,5 +1,9 @@
 # VC++ redistributable runtimes installers - Demos
 
+[![Latest Version](https://img.shields.io/github/release/Wilenty/VisualC-redist-installers-Demos.svg)](https://github.com/Wilenty/VisualC-redist-installers-Demos/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/VisualC-redist-installers-Demos/total.svg)](https://github.com/Wilenty/VisualC-redist-installers-Demos/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/VisualC-redist-installers-Demos/latest/total.svg)](https://github.com/Wilenty/VisualC-redist-installers-Demos/releases/latest)
+
 If this program is to advanced/complicated for you, look at the "Simple Install" button on the information-page (where the information about the changes). After using it (in the full version), it will uninstall all installed VC++ runtimes and install included in the program.
 
 It's so hard to create simple as possible program and advanced as possible at the same time, where you can change all options available, even from command-line! So, I created a batch file to show you how the command-line is parsed by the program. And, I described all of available parameters in the text files.
